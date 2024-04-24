@@ -1,0 +1,10 @@
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\bin\Debug\TrabalhoFernando.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\bin\Debug\TrabalhoFernando.exe
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\bin\Debug\TrabalhoFernando.pdb
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.Form1.resources
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.Properties.Resources.resources
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.exe
+C:\Users\david\OneDrive\Área de Trabalho\Faculdade David\3 termo\Analise de sist. orient. a objeto\TrabalhoFernando\obj\Debug\TrabalhoFernando.pdb
